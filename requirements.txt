@@ -1,0 +1,7 @@
+pandas
+numpy
+statsmodels>=0.14.0
+pgmpy>=1.0.0
+networkx
+fastapi
+uvicorn
